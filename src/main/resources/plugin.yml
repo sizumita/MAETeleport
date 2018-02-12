@@ -1,0 +1,8 @@
+name: Teleport
+version: ${project.version}
+main: mae.teleport.Teleport
+commands:
+   maeteleport:
+      usage: /<command>
+      permission: MAETeleportcanteleport
+      permission-message: You don't have <permission>
